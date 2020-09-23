@@ -8,6 +8,7 @@ Based on the ride data summary:
 
 ![](analysis/PyBer_fare_summary.png)
 
+
 ![](analysis/Ride_data_Summary.png)
 
  We can tell the Urban area has more riders of 1,625, with higher total fares of $39,854. The average fares of rides in the urban area are lowest comparing to other city types at $24.53. There are more drivers (2,405) in the Urban area which led to a lower average fare per driver at $16.57. There are more drivers than the riders in the urban area.
