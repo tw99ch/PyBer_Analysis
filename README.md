@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview of the analysis
-The purpose of this analysis is to summarize the Pyber riding data and to analyze the total fares of riding the Pyber by City Type in order to assist management at PyBer to make decisions.
+The purpose of this analysis is to summarize the Pyber riding data for total Rides, total driver, total Fares, average fare per ride and average fare per driver based on city typr, and to analyze the total fares of riding the Pyber by City Type in order to assist management at PyBer to make decisions.
 
 ## Results:
 
